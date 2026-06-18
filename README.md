@@ -3,7 +3,6 @@
 Previsão do consumo horário de energia elétrica (kWh) de uma fábrica de água mineral, tratado como um problema de **séries temporais / regressão supervisionada**. O objetivo é apoiar decisões operacionais (planejamento de equipamentos, redução de custo em horário de ponta) antecipando o consumo a partir do histórico recente e de variáveis de calendário.
 
 > MVP da disciplina de Machine Learning & Analytics.
-> Autor: Thiago Fragoso Gomes da Silva
 
 ## Problema
 
